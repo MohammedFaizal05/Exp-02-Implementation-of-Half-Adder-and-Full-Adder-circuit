@@ -39,8 +39,8 @@ If the output is 1, then the led glows.
 ```vhdl
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Mohammed Faizal.J
+RegisterNumber:  212222100027
 */
 # Half adder :
 module halfadd(a,b,sum,carry);
